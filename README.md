@@ -1,4 +1,4 @@
 # my-new-project
-This is my frist git repository
+This is my first git repository
 <br>
 Author- Kuldeep Gangwar(kd)
